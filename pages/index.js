@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to CRM Insights!</a>
+          Welcome to CRM Insights!
         </h1>
 
         <p className={styles.description}>

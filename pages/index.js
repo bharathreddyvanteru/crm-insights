@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Best CRM software and Insights</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="9LJu7LRuJzI5vVpqC1eehiIy4UT-NhLyORPxVnLtG3c" />
       </Head>
 
       <main className={styles.main}>
